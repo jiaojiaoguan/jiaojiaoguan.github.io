@@ -1,5 +1,7 @@
 ##Publication
+
 ###JOURNAL PAPERS
+
 - Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.
 
 - Daewoo Pak, Nan Du, Yunsoon Kim, Yanni Sun, and Zachary F. Burton, "Rooted tRNAomes and evolution of the genetic code", Transcription, 9 (3): 137-151, 2017
