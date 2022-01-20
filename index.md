@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Yanni Sun</h1>
+      <p><b>Associate Professor</b></p>
+      <p><b>Dept. of Electronic Engineering</b></p>
+      <p><b>City University of Hong Kong</b></p>
+      <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
