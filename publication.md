@@ -1,6 +1,4 @@
 
-# Understand the language of life
-
 # Publications
 
 ### JOURNAL PAPERS
