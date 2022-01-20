@@ -35,17 +35,17 @@ Computational biology, Bioinformatics, deep learning-based sequence analysis, BI
 
 1.Microbial community analysis using high-throughput sequencing data
 - Composition analysis of metagenomics data sequenced from human body samples
-Metagenomic data mining for samples from natural environments (e.g. ocean water)
-Gene-centric functional anlaysis of metagenomic data
+- Metagenomic data mining for samples from natural environments (e.g. ocean water)
+- Gene-centric functional anlaysis of metagenomic data
 
 2.Virus diversity analysis using deep sequencing data
--Viral population characterization using shot-gun deep sequencing data
--Clinically important virus (such as HIV, HCV, SARS-CoV) identification
--Interaction of bacteria and phages using CRISPR
+- Viral population characterization using shot-gun deep sequencing data
+- Clinically important virus (such as HIV, HCV, SARS-CoV) identification
+- Interaction of bacteria and phages using CRISPR
 3. Plant genome annotation
--Gene prediction in crops such as rice and maize
--Small nocoding RNA search in plant genomes
+- Gene prediction in crops such as rice and maize
+- Small nocoding RNA search in plant genomes
 4. Algorithm design for mining third-generation sequencing data
--Error correction of long reads
--De novo assembly of long reads
+- Error correction of long reads
+- De novo assembly of long reads
 5.Noncoding RNA (small RNA, lncRNA etc.) secondary structure identification and search in large-scale genomic databases
