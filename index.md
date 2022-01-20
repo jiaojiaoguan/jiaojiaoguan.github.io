@@ -7,12 +7,13 @@
       <p><b>Dept. of Electronic Engineering</b></p>
       <p><b>City University of Hong Kong</b></p>
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
-      <p><a href="/publication.html" width="25%"><h3>Publication</h3></a> 
-        <a href="/opening.html" width="50%">Opening</a>
-      </p>
+      
     </td>
     <td width="25%">
       <img src="/yanni.jpeg" width="100%">
+      <p><a href="/publication.html" width="25%"><h3>Publication</h3></a> 
+      <a href="/opening.html" width="50%">Opening</a>
+      </p>
     </td>
   </tr>
 </table>
