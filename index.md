@@ -7,7 +7,7 @@
       <p><b>Dept. of Electronic Engineering</b></p>
       <p><b>City University of Hong Kong</b></p>
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
-      <p><a href="/publication.html" width="25%">Publication</a> 
+      <p><a href="/publication.html" width="25%"><h2>Publication</h2></a> 
         <a href="/opening.html" width="50%">Opening</a>
       </p>
     </td>
