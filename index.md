@@ -39,6 +39,19 @@ Yanni Sun is an Associate Professor in the Department of Electronic Engineering 
 - Xi’an JiaoTong University, Xi’an, China
 
 ## Research Interests
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/research_interest1.jpg" width="100%">
+    </td>
+    <td width="50%">
+      <img src="/research_interest2.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
+
 - Computational biology
 - Bioinformatics
 - deep learning-based sequence analysis
