@@ -2,7 +2,10 @@
 <div>
   <table border="0">
     <tr>
-      <td>Main</td>   
+      <td>Main</td>
+      <td>Publication</td>
+      <td>News</td>
+      <td>People</td>
     </tr>   
    </table border="0">     
 </div>
