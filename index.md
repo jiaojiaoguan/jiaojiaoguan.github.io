@@ -1,4 +1,3 @@
----
 <div>
   <table border="0">
     <tr>
@@ -9,8 +8,6 @@
     </tr>   
    </table border="0">     
 </div>
-
----
 
 
 
