@@ -24,6 +24,7 @@ Yanni Sun is an Associate Professor in the Department of Electronic Engineering 
 
 ---
 ## EDUCATION
+
 - Ph.D. in Computer Science August 2008
 
 - Washington University in St. Louis, MO
@@ -39,6 +40,7 @@ Yanni Sun is an Associate Professor in the Department of Electronic Engineering 
 - Xi’an JiaoTong University, Xi’an, China
 
 ## Research Interests
+
 <div>
 <table border="0">
   <tr>
