@@ -2,22 +2,9 @@
 <div>
   <table border="0">
     <tr>
-      <td width="25%">
-        <h1>Main</h1>
-      </td>
-      <td width="25%">
-        <h1>Publication</h1>
-      </td>
-       <td width="25%">
-        <h1>News</h1>
-          </td>
-          <td width="25%">
-        <h1>Peoele</h1>
-        
-          </td> 
-        
-    </tr>    
-        
+      <td>Main</td>   
+    </tr>   
+   </table border="0">     
 </div>
 
 ---
