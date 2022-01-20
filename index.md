@@ -1,10 +1,10 @@
 <div>
   <table border="0">
     <tr>
-      <td>Main</td>
-      <td>Publication</td>
-      <td>News</td>
-      <td>People</td>
+      <td width="25%">Main</td>
+      <td width="25%">Publication</td>
+      <td width="25%">News</td>
+      <td width="25%">People</td>
     </tr>   
    </table border="0">     
 </div>
