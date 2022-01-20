@@ -7,7 +7,6 @@
       <p><b>Dept. of Electronic Engineering</b></p>
       <p><b>City University of Hong Kong</b></p>
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
-      
     </td>
     <td width="25%">
       <img src="/yanni.jpeg" width="100%">
