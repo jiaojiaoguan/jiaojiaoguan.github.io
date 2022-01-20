@@ -1,7 +1,7 @@
 
-##Publication
+## Publication
 
-###JOURNAL PAPERS
+### JOURNAL PAPERS
 
 - Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.
 
@@ -45,30 +45,70 @@
 
 - Yuan Zhang, Yanni Sun, and James R. Cole, “A Sensitive and Accurate protein domain cLassification Tool (SALT) for short reads.” Bioinformatics, June 2013, 9 pages, doi:10.1093/bioinformatics/btt357.
 
-Rujira Achawanantakun and Yanni Sun. "Shape and secondary structure prediction for ncRNAs including pseudoknots based on linear SVM." BMC Bioinformatics, 2013.
+- Rujira Achawanantakun and Yanni Sun. "Shape and secondary structure prediction for ncRNAs including pseudoknots based on linear SVM." BMC Bioinformatics, 2013.
 
-Cheng Yuan and Yanni Sun. "Efficient known ncRNA search including pseudoknots." BMC Bioinformatics, 2013.
+- Cheng Yuan and Yanni Sun. "Efficient known ncRNA search including pseudoknots." BMC Bioinformatics, 2013.
 
-A. Vieler, G. Wu, et. al. "Genome, functional gene annotation, and nuclear transformation of the heterokont oleaginous alga Nannchloropsis oceanica CCMP1779", Plos Genetics, 8(11), 25 pages, 2012.
+- A. Vieler, G. Wu, et. al. "Genome, functional gene annotation, and nuclear transformation of the heterokont oleaginous alga Nannchloropsis oceanica CCMP1779", Plos Genetics, 8(11), 25 pages, 2012.
 
-Jikai Lei, Prapaporn Techa-Angkoon, Yanni Sun, "Chain-RNA: a comparative ncRNA search tool based on the two-dimensional chain algorithm", IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2012. Impact factor: 2.25
+- Jikai Lei, Prapaporn Techa-Angkoon, Yanni Sun, "Chain-RNA: a comparative ncRNA search tool based on the two-dimensional chain algorithm", IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2012. Impact factor: 2.25
 
-Yanni Sun, Osama Aljawad, Jikai Lei, and Alex Liu, "Genome-scale NCRNA homology search using a Hamming distance-based filtration strategy", BMC Bioinformatics, 13(Suppl 3):S12, 13 pages, 2012
+- Yanni Sun, Osama Aljawad, Jikai Lei, and Alex Liu, "Genome-scale NCRNA homology search using a Hamming distance-based filtration strategy", BMC Bioinformatics, 13(Suppl 3):S12, 13 pages, 2012
 
-Yanni Sun, Jeremy Buhler, Cheng Yuan, "Designing Filters for Fast Known NcRNA Identification." IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2011. Impact factor: 2.25
+- Yanni Sun, Jeremy Buhler, Cheng Yuan, "Designing Filters for Fast Known NcRNA Identification." IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2011. Impact factor: 2.25
 
-Rujira Achawanantakun, Yanni Sun, Seyedeh Shohreh Takyar, "Using a novel secondary structure representation for consensus ncRNA secondary structure derivation." Journal of Bioinformatics and Computational biology, 9(2): 317-337, 2011. Impact factor: 1.0
+- Rujira Achawanantakun, Yanni Sun, Seyedeh Shohreh Takyar, "Using a novel secondary structure representation for consensus ncRNA secondary structure derivation." Journal of Bioinformatics and Computational biology, 9(2): 317-337, 2011. Impact factor: 1.0
 
-Yuan Zhang and Yanni Sun, "HMM-FRAME: accurate protein domain classification for metagenomic sequences in the presence of frameshift errors." BMC Bioinformatics, 12:198-213, 2011. Imact Factor: 3.43
+- Yuan Zhang and Yanni Sun, "HMM-FRAME: accurate protein domain classification for metagenomic sequences in the presence of frameshift errors." BMC Bioinformatics, 12:198-213, 2011. Imact Factor: 3.43
 
-Yanni Sun and Jeremy Buhler, "Designing patterns and profiles for profile HMM search." IEEE/ACM Transactions on Computational Biology and Bioinformatics, 6(2):232-43, 2009 Apr-Jun.
+- Yanni Sun and Jeremy Buhler, "Designing patterns and profiles for profile HMM search." IEEE/ACM Transactions on Computational Biology and Bioinformatics, 6(2):232-43, 2009 Apr-Jun.
 
-Yanni Sun and Jeremy Buhler. "Designing patterns for profile HMM search", Bioinformatics 23:e36-43, 2007, special issue of ECCB 06. Impact Factor: 4.926. Citations: 9
+- Yanni Sun and Jeremy Buhler. "Designing patterns for profile HMM search", Bioinformatics 23:e36-43, 2007, special issue of ECCB 06. Impact Factor: 4.926. Citations: 9
 
-Yanni Sun and Jeremy Buhler, "Choosing the best heuristic for seeded alignment of DNA sequences." BMC Bioinformatics 7:133, 2006. Impact Factor: 3.43. Citations: 17
+- Yanni Sun and Jeremy Buhler, "Choosing the best heuristic for seeded alignment of DNA sequences." BMC Bioinformatics 7:133, 2006. Impact Factor: 3.43. Citations: 17
 
-Jeremy Buhler, Uri Keich, and Yanni Sun, "Designing seeds for similarity search in genomic DNA." Journal of Computing and Systems Science 70:342-363, 2005. Citations: 42
+- Jeremy Buhler, Uri Keich, and Yanni Sun, "Designing seeds for similarity search in genomic DNA." Journal of Computing and Systems Science 70:342-363, 2005. Citations: 42
 
-Yanni Sun and Jeremy Buhler, "Designing multiple simultaneous seeds for DNA similarity search." Journal of Computational Biology 12:847-861, 2005. Impactor Factor: 1.694. Citations: 41
+- Yanni Sun and Jeremy Buhler, "Designing multiple simultaneous seeds for DNA similarity search." Journal of Computational Biology 12:847-861, 2005. Impactor Factor: 1.694. Citations: 41
 
-Mei Zheng and Yanni Sun, "Fast rendering of multiple Iso-potential surfaces for 3-D physical fields." Journal of Xi'an JiaoTong Universtiy, China, October 1999.
+- Mei Zheng and Yanni Sun, "Fast rendering of multiple Iso-potential surfaces for 3-D physical fields." Journal of Xi'an JiaoTong Universtiy, China, October 1999.
+
+### CONFERENCE PAPERS
+
+- Nan Du and Yanni Sun, "Improve homology search sensitivity of PacBio data by correcting frameshifts", Proceeding of ECCB 2016, the Hague, Netherlands, September 4, 2016
+
+- Jikai Lei and Yanni Sun, "Assemble CRISPRs from metagenomic sequencing data", Proceeding of ECCB 2016, the Hague, Netherlands, September 4, 2016
+
+- Prapaporn Techa-Angkoon, Yanni Sun and Jikai Lei, "Improve Short Read Homology Search using Paired-End Read Information", Proceeding of ISBRA, Minsk, Belarus, June 2016
+
+- Cheng Yuan, Jikai Lei, James R. Cole, and Yanni Sun. "Reconstructing 16S rRNA genes in metagenomic data", Proceedings of ISMB 2015, Dublin, Ireland, July 10th, 2015
+
+- Prapaporn Techa-Angkoon and Yanni Sun. "glu-RNA: aliGn highLy strUctured ncRNAs using only sequence similarity." Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (ACM BCB 2013), Washington D.C., USA, 2013
+
+- Jikai Lei, Prapaporn Techa-Angkoon, and Yanni Sun. " ChainKnot: a comparative H-type pseudoknot prediction tool using multiple ab initio folding tool." Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (ACM BCB 2013), Washington D.C., USA, 2013
+
+- Rujira Achawanantakun and Yanni Sun. "Shape and secondary structure prediction for ncRNAs including pseudoknots based on linear SVM." Proceedings of the Eleventh Asia Pacific Bioinformatics Conference (APBC 2013), Vancouver, Canada, 2013.
+
+- Cheng Yuan and Yanni Sun. "Efficient known ncRNA search including pseudoknots." Proceedings of the Eleventh Asia Pacific Bioinformatics Conference (APBC 2013), Vancouver, Canada, 2013.
+
+- Yuan Zhang and Yanni Sun. "PseudoDomain: identification of processed pseudogenes based on protein domain classification.", Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (ACM BCB 2012), Orlando, FL, USA, 2012, regular paper, acceptance ratio: 19%.
+
+- Jikai Lei, Prapaporn Techa-Angkoon, and Yanni Sun. "NCRNA homology search based on an extended two-dimensional chain algorithm. " Proceedings of the Tenth Asia Pacific Bioinformatics Conference (APBC 2012), Melbourne, Australia, 2012.
+
+- Yuan Zhang and Yanni Sun. "MetaDomain: a profile HMM-based protein domain classification tool for short sequences. " Proceedings of the Pacific Symposium on Biocomputing (PSB) 2012, Big Island, HI, USA, 2012.
+
+- Osama Aljawad, Yanni Sun, Alex Liu, and Jikai Lei. "NcRNA Homology Search Using Hamming Distance Seeds. " Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (ACM BCB 2011), Chicago, USA, 2011, regular paper, acceptance ratio: 19%.
+
+- Rujira Achawanantakun, Seyedeh Shohreh Takyar, Yanni Sun. "Grammar String: A Novel ncRNA Secondary Structure Representation." Proceedings of the Ninth Annual International Conference on Computational Systems Bioinformatics (CSB 10), CA, USA, 2010, acceptance ratio: 22%.
+
+- Stuart King, Yanni Sun, James Cole, and Sakti Pamanik. "BLAST Tree: Fast Filtering for Genomic Sequence Classification. " 10th IEEE International Conference on "Bioinformatics and Bioengineering (BIBE-2010), Philadelphia, PA, USA, 2010.
+
+- Yanni Sun and Jeremy Buhler, "Designing Secondary Structure Profiles for Fast ncRNA Identification." Proceedings of the Seventh Annual International Conference on Computational Systems Bioinformatics (CSB 08), CA, USA, 2008, acceptance ratio: 22%.
+
+- Yanni Sun and Jeremy Buhler. "Designing patterns for profile HMM search." Proceedings of the 5th European Conference on Computational Biology (ECCB06), Eilat, Israel, acceptance ratio: 18%.
+
+- Yanni Sun and Jeremy Buhler, "Designing multiple simultaneous seeds for DNA similarity search." Proceedings of the Eighth Annual International Conference on Computational Molecular Biology (RECOMB04), 76-84, San Diego, CA USA, 2004, acceptance ratio: 18%. Citations:51
+
+- Jeremy Buhler, Uri Keich, and Yanni Sun, "Designing seeds for similarity search in genomic DNA." Proceedings of the Seventh Annual International Conference on Computational Molecular Biology (RECOMB03), 67-75, Berlin, Germany, April 2003, acceptance ratio: 20%. Citations: 99
+
+- Mei Zheng and Yanni Sun, "Volume rendering method for Iso-surface distribution in 3D field domain." Proceedings of International Conference on Advanced Manufacturing Technology, Xi'an, China, 1999.
