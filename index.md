@@ -42,10 +42,13 @@ Computational biology, Bioinformatics, deep learning-based sequence analysis, BI
 - Viral population characterization using shot-gun deep sequencing data
 - Clinically important virus (such as HIV, HCV, SARS-CoV) identification
 - Interaction of bacteria and phages using CRISPR
+
 3.Plant genome annotation
 - Gene prediction in crops such as rice and maize
 - Small nocoding RNA search in plant genomes
+
 4.Algorithm design for mining third-generation sequencing data
 - Error correction of long reads
 - De novo assembly of long reads
+
 5.Noncoding RNA (small RNA, lncRNA etc.) secondary structure identification and search in large-scale genomic databases
