@@ -10,8 +10,8 @@
     </td>
     <td width="25%">
       <img src="/yanni.jpeg" width="100%">
-      <p><a href="/publication.html" width="25%"><h3>Publication</h3></a> 
-      <a href="/opening.html" width="50%">Opening</a>
+      <p><a href="/publication.html"><h4>Publication</h4></a> 
+      <a href="/opening.html"><h4>Opening</h4></a>
       </p>
     </td>
   </tr>
