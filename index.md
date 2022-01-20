@@ -9,8 +9,6 @@
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
       <p><a href="/publication.html" width="25%">Publication</a> 
         <a href="/opening.html" width="50%">Opending</a>
-        
-        
       </p>
     </td>
     <td width="25%">
