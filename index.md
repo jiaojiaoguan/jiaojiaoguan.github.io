@@ -23,7 +23,20 @@
 Yanni Sun is an Associate Professor in the Department of Electronic Engineering at City University of Hong Kong. Before she moved to Hong Kong, she was an Associate Professor in Computer Science and Engineering Department at Michigan State University, USA. She received the B.S. and M.S. degrees from Xi'an JiaoTong University (China), both in Computer Science. She received the Ph.D. degree in Computer Science from Washington University in Saint Louis, USA in 2008. Her research field is bioinformatics and computational biology. In particular, her recent research projects include sequence analysis, next-generation sequencing data analysis, metagenomics, protein domain annotation, plant genomics, and noncoding RNA annotation. She was a recipient of NSF CAREER Award in 2010.
 
 ---
+## EDUCATION
+- Ph.D. in Computer Science August 2008
 
+- Washington University in St. Louis, MO
+
+- Thesis: Designing Filtration Strategies for Fast Sequence Annotation
+
+- Advisor: Dr. Jeremy Buhler
+
+- Advisory committee: Dr. Jeremy Buhler, Dr. Gary Stormo, Dr. Michael Brent, Dr. Sally Goldman, Dr. Tao Ju, and Dr. Nan Lin.
+
+- M.S. and B.S. in Computer Science,
+
+- Xi’an JiaoTong University, Xi’an, China
 
 ## Research Interests
 - Computational biology
