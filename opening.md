@@ -1,6 +1,6 @@
 
   
-###  <font size=1 align="right">Understand The Language of Life</font>
+###  <div align="right"><font size=1>Understand The Language of Life</font></div>
 
 
 
