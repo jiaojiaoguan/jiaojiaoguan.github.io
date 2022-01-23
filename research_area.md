@@ -14,7 +14,7 @@ An overview of my recent research interests
        <p><a href="/publication.html">[Publication]</a> <a href="/opening.html">[Opening]</a> <a href="/research_area.html">[Research Area]</a></p>
     </td>
     <td width="25%">
-      <img src="/yanni.jpeg" width="100%">
+      <img src="/research_area.jpg" width="100%">
     </td>
   </tr>
 </table>
