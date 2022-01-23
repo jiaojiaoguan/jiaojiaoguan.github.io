@@ -1,6 +1,6 @@
-<div>
-  ### <p align="right">Understand The Language of Life</p>
-</div>
+
+### <p align="right">Understand The Language of Life</p>
+
 
 An overview of my recent research interests
 
