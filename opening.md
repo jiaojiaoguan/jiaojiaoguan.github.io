@@ -1,4 +1,6 @@
-# openings
+### Understand The Language of Life
+
+## openings
 
 ### Postdoc and Research Assistant (RA) openings
 
