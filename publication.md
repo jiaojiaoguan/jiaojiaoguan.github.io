@@ -1,6 +1,5 @@
-### Understand The Language of Life
-
-#### JOURNAL PAPERS
+## Publication
+### JOURNAL PAPERS
 
 - Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.
 
@@ -72,7 +71,7 @@
 
 - Mei Zheng and Yanni Sun, "Fast rendering of multiple Iso-potential surfaces for 3-D physical fields." Journal of Xi'an JiaoTong Universtiy, China, October 1999.
 
-#### CONFERENCE PAPERS
+### CONFERENCE PAPERS
 
 - Nan Du and Yanni Sun, "Improve homology search sensitivity of PacBio data by correcting frameshifts", Proceeding of ECCB 2016, the Hague, Netherlands, September 4, 2016
 
