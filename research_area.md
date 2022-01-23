@@ -6,7 +6,7 @@ An overview of my recent research interests
 <table border="0">
   <tr>
     <td width="100%">
-     <img src="research_area.png" width="100%">
+     <img src="research_area.png">
     </td>
   </tr>
 </table>
