@@ -1,6 +1,5 @@
 
-### <p align="right">Understand The Language of Life</p>
-
+### Understand The Language of Life
 
 An overview of my recent research interests
 
