@@ -1,7 +1,5 @@
 ### Understand The Language of Life
 
-## openings
-
 ### Postdoc and Research Assistant (RA) openings
 
 Group: Dr. Yanni Sun, Electrical Engineering at City University of Hong Kong 
