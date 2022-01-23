@@ -1,6 +1,6 @@
 ### Understand The Language of Life
 
-#### [JOURNAL PAPERS]
+#### ***JOURNAL PAPERS***
 
 - Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.
 
