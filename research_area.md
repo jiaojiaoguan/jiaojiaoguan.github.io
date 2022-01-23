@@ -1,4 +1,3 @@
-<!-- <p align="right">诶嘿</p> -->
 # Understand The Language of Life
 
 An overview of my recent research interests
