@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Publications - Jiaojiao Guan</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Lato', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .navbar {
+            font-family: 'Raleway', sans-serif;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Raleway', sans-serif;
+        }
+        .publication-item {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .publication-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        .publication-title {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .publication-title a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .publication-title a:hover {
+            text-decoration: underline;
+        }
+        .publication-authors {
+            color: #555;
+        }
+        .publication-venue {
+            color: #888;
+            font-style: italic;
+        }
+        .section-title {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        footer {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 0;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top mb-5 shadow-sm">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><strong>Jiaojiao Guan</strong></a>
+            <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i> Menu
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="publications.html">Publications</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+
+        <!-- Page Title -->
+        <section class="mb-5 pt-4">
+            <h1>Publications</h1>
+            <p class="text-muted">Full list of publications</p>
+        </section>
+
+        <!-- All Publications -->
+        <section id="publications" class="mb-5">
+            <div class="card border-0 shadow-sm bg-white">
+                <div class="card-body">
+                    <div id="publications-list">
+                        <!-- Publications will be inserted here by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="container">
+            <p class="mb-1">&copy; 2024 Jiaojiao Guan. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
+    <script>
+        // ============ 论文列表 (全部论文) ============
+        const publicationsData = [
+            // 2025
+            {
+                year: '2025',
+                title: 'MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction',
+                authors: '<strong>Jiaojiao Guan</strong>, Wei Zou, Yongxin Ji, Yanni Sun',
+                venue: 'Bioinformatics',
+                link: 'https://academic.oup.com/bioinformatics/article/41/3/btaf075/8019658'
+            },
+            {
+                year: '2025',
+                title: 'GOPhage: protein function annotation for bacteriophages by integrating the genomic context',
+                authors: '<strong>Jiaojiao Guan</strong>, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, Yanni Sun',
+                venue: 'Briefings in Bioinformatics',
+                link: 'https://academic.oup.com/bib/article/26/1/bbaf014/7966747'
+            },
+            {
+                year: '2025',
+                title: 'GiantHunter: accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search',
+                authors: 'Fuchuan Peng, Cheng Peng, <strong>Jiaojiao Guan</strong>, Donglin Wang, Yanni Sun, Jiayu Shang',
+                venue: 'Bioinformatics',
+                link: 'https://academic.oup.com/bioinformatics/article/41/Supplement_1/i30/8199392'
+            },
+            {
+                year: '2025',
+                title: 'Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong',
+                authors: 'Caifang Wen, <strong>Jiaojiao Guan</strong>, Theethawat Uea-Anuwong, Jiayu Shang, Cheng Peng, Xubo Tang, Ioannis Magouras, Yanni Sun, Fuyong Li',
+                venue: 'Environmental Research',
+                link: 'https://www.sciencedirect.com/science/article/pii/S0013935125013593'
+            },
+            // 2024
+            {
+                year: '2024',
+                title: 'ViraLM: empowering virus discovery through the genome foundation model',
+                authors: 'Cheng Peng, Jiayu Shang, <strong>Jiaojiao Guan</strong>, Donglin Wang, Yanni Sun',
+                venue: 'Bioinformatics',
+                link: 'https://academic.oup.com/bioinformatics/article/40/12/btae704/7907584'
+            },
+            {
+                year: '2024',
+                title: 'Accurate and efficient protein embedding using multi-teacher distillation learning',
+                authors: 'Jiayu Shang, Cheng Peng, Yongxin Ji, <strong>Jiaojiao Guan</strong>, Dehan Cai, Xubo Tang, Yanni Sun',
+                venue: 'Bioinformatics',
+                link: 'https://academic.oup.com/bioinformatics/article/40/9/btae567/7772445'
+            },
+            {
+                year: '2024',
+                title: 'PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure',
+                authors: 'Yongxin Ji, Jiayu Shang, <strong>Jiaojiao Guan</strong>, Wei Zou, Herui Liao, Xubo Tang, Yanni Sun',
+                venue: 'GigaScience',
+                link: 'https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae104/7929491'
+            },
+            // 2023
+            {
+                year: '2023',
+                title: 'PhaGenus: genus-level classification of bacteriophages using a transformer model',
+                authors: '<strong>Jiaojiao Guan</strong>, Cheng Peng, Jiayu Shang, Xubo Tang, Yanni Sun',
+                venue: 'Briefings in Bioinformatics',
+                link: 'https://academic.oup.com/bib/article/24/6/bbad408/7420494'
+            },
+            // Earlier
+            {
+                year: '2021',
+                title: 'An end-to-end heterogeneous graph representation learning-based framework for drug-target interaction prediction',
+                authors: 'Jiajie Peng, Yuxian Wang, <strong>Jiaojiao Guan</strong>, Jingyi Han, Jianye Hao, Zhongyu Wei, Xuequn Shang',
+                venue: 'Briefings in Bioinformatics',
+                link: 'https://academic.oup.com/bib/article/22/5/bbaa430/6124914'
+            },
+            {
+                year: '2021',
+                title: 'A novel subnetwork representation learning method for uncovering disease-disease relationships',
+                authors: 'Jiajie Peng, <strong>Jiaojiao Guan</strong>, Weiwei Hui, Xuequn Shang',
+                venue: 'Methods',
+                link: null
+            },
+            {
+                year: '2019',
+                title: 'Predicting Parkinson\'s disease genes based on node2vec and autoencoder',
+                authors: 'Jiajie Peng, <strong>Jiaojiao Guan</strong>, Xuequn Shang',
+                venue: 'Frontiers in Genetics',
+                link: 'https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00226/full'
+            }
+        ];
+
+        // 渲染所有论文
+        function renderPublications() {
+            const publicationsList = document.getElementById('publications-list');
+            const years = [...new Set(publicationsData.map(p => p.year))].sort((a, b) => b - a);
+
+            let html = '';
+            years.forEach(year => {
+                const papers = publicationsData.filter(p => p.year === year);
+                html += `<h4 class="mt-4 mb-3 text-muted">${year}</h4>`;
+                papers.forEach(paper => {
+                    const titleHtml = paper.link
+                        ? `<a href="${paper.link}" target="_blank">${paper.title}</a>`
+                        : paper.title;
+                    html += `
+                        <div class="publication-item">
+                            <div class="publication-title">${titleHtml}</div>
+                            <div class="publication-authors">${paper.authors}</div>
+                            <div class="publication-venue">${paper.venue}, ${paper.year}</div>
+                        </div>
+                    `;
+                });
+            });
+
+            publicationsList.innerHTML = html;
+        }
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            renderPublications();
+        });
+    </script>
+</body>
+</html>

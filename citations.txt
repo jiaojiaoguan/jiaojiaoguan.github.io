@@ -1,0 +1,159 @@
+@article{peng2021end,
+  title={An end-to-end heterogeneous graph representation learning-based framework for drug--target interaction prediction},
+  author={Peng, Jiajie and Wang, Yuxian and Guan, Jiaojiao and Li, Jingyi and Han, Ruijiang and Hao, Jianye and Wei, Zhongyu and Shang, Xuequn},
+  journal={Briefings in bioinformatics},
+  volume={22},
+  number={5},
+  pages={bbaa430},
+  year={2021},
+  publisher={Oxford University Press}
+}
+
+@article{peng2019predicting,
+  title={Predicting Parkinson's disease genes based on node2vec and autoencoder},
+  author={Peng, Jiajie and Guan, Jiaojiao and Shang, Xuequn},
+  journal={Frontiers in genetics},
+  volume={10},
+  pages={226},
+  year={2019},
+  publisher={Frontiers Media SA}
+}
+
+@article{peng2021novel,
+  title={A novel subnetwork representation learning method for uncovering disease-disease relationships},
+  author={Peng, Jiajie and Guan, Jiaojiao and Hui, Weiwei and Shang, Xuequn},
+  journal={Methods},
+  volume={192},
+  pages={77--84},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{liu2020predicting,
+  title={Predicting the disease genes of multiple sclerosis based on network representation learning},
+  author={Liu, Haijie and Guan, Jiaojiao and Li, He and Bao, Zhijie and Wang, Qingmei and Luo, Xun and Xue, Hansheng},
+  journal={Frontiers in Genetics},
+  volume={11},
+  pages={328},
+  year={2020},
+  publisher={Frontiers Media SA}
+}
+
+@article{guan2023phagenus,
+  title={PhaGenus: genus-level classification of bacteriophages using a transformer model},
+  author={Guan, Jiaojiao and Peng, Cheng and Shang, Jiayu and Tang, Xubo and Sun, Yanni},
+  journal={Briefings in Bioinformatics},
+  volume={24},
+  number={6},
+  pages={bbad408},
+  year={2023},
+  publisher={Oxford University Press}
+}
+
+@article{ji2024plasgo,
+  title={PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure},
+  author={Ji, Yongxin and Shang, Jiayu and Guan, Jiaojiao and Zou, Wei and Liao, Herui and Tang, Xubo and Sun, Yanni},
+  journal={GigaScience},
+  volume={13},
+  pages={giae104},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
+@article{peng2024viralm,
+  title={ViraLM: empowering virus discovery through the genome foundation model},
+  author={Peng, Cheng and Shang, Jiayu and Guan, Jiaojiao and Wang, Donglin and Sun, Yanni},
+  journal={Bioinformatics},
+  volume={40},
+  number={12},
+  pages={btae704},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
+@article{shang2024accurate,
+  title={Accurate and efficient protein embedding using multi-teacher distillation learning},
+  author={Shang, Jiayu and Peng, Cheng and Ji, Yongxin and Guan, Jiaojiao and Cai, Dehan and Tang, Xubo and Sun, Yanni},
+  journal={Bioinformatics},
+  volume={40},
+  number={9},
+  pages={btae567},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
+@article{zou2025mostplas,
+  title={MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction},
+  author={Zou, Wei and Ji, Yongxin and Guan, Jiaojiao and Sun, Yanni},
+  journal={Bioinformatics},
+  volume={41},
+  number={3},
+  pages={btaf075},
+  year={2025},
+  publisher={Oxford University Press}
+}
+
+@article{guan2025gophage,
+  title={GOPhage: protein function annotation for bacteriophages by integrating the genomic context},
+  author={Guan, Jiaojiao and Ji, Yongxin and Peng, Cheng and Zou, Wei and Tang, Xubo and Shang, Jiayu and Sun, Yanni},
+  journal={Briefings in Bioinformatics},
+  volume={26},
+  number={1},
+  pages={bbaf014},
+  year={2025},
+  publisher={Oxford University Press}
+}
+
+@article{qu2025gianthunter,
+  title={GiantHunter: accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search},
+  author={Qu, Fuchuan and Peng, Cheng and Guan, Jiaojiao and Wang, Donglin and Sun, Yanni and Shang, Jiayu},
+  journal={Bioinformatics},
+  volume={41},
+  number={Supplement\_1},
+  pages={i30--i39},
+  year={2025},
+  publisher={Oxford University Press}
+}
+
+@article{peng2025viralqc,
+  title={ViralQC: A tool for assessing completeness and contamination of predicted viral contigs},
+  author={Peng, Cheng and Shang, Jiayu and Guan, Jiaojiao and Sun, Yanni},
+  journal={arXiv preprint arXiv:2504.05790},
+  year={2025}
+}
+
+@article{wen2025dissecting,
+  title={Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong},
+  author={Wen, Caifang and Guan, Jiaojiao and Uea-Anuwong, Theethawat and Shang, Jiayu and Peng, Cheng and Tang, Xubo and Magouras, Ioannis and Sun, Yanni and Li, Fuyong},
+  journal={Environmental Research},
+  volume={283},
+  pages={122108},
+  year={2025},
+  publisher={Academic Press}
+}
+
+@article{ji2026plasrag,
+  title={PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment},
+  author={Ji, Yongxin and Guan, Jiaojiao and Liao, Herui and Shang, Jiayu and Sun, Yanni},
+  journal={Genome Biology},
+  year={2026},
+  publisher={BioMed Central London}
+}
+
+@article{shang2025computational,
+  title={Computational approaches for virus host prediction: A review of methods and applications},
+  author={Shang, Jiayu and Peng, Cheng and Guan, Jiaojiao and Cai, Dehan and Wang, Donglin and Sun, Yanni},
+  journal={arXiv preprint arXiv:2509.00349},
+  year={2025}
+}
+
+@article{shang2025genomic,
+  title={From genomic signals to prediction tools: a critical feature analysis and rigorous benchmark for phage--host prediction},
+  author={Shang, Jiayu and Peng, Cheng and Guan, Jiaojiao and Cai, Dehan and Wang, Donglin and Sun, Yanni},
+  journal={Briefings in Bioinformatics},
+  volume={26},
+  number={6},
+  pages={bbaf626},
+  year={2025},
+  publisher={Oxford University Press}
+}
