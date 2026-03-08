@@ -264,24 +264,7 @@
                         <!-- Visitor Map -->
                         <div class="col-md-6">
                             <p><i class="fas fa-map-marker-alt mr-2"></i><strong>Visitor Map</strong></p>
-                            <!-- ClustMaps Visitor Map - Real-time -->
-                            <div id="clustrmaps-widget" style="min-height: 200px;">
-                                <a href="https://clustrmaps.com/site/1bnk5" target="_blank">
-                                    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=QqWiqtgpvhS5l2vUR-NBmZiV5sSdT6Hqfp8yYaFtTlY" style="max-width: 100%; height: auto;" alt="Visitor Map"/>
-                                </a>
-                            </div>
-                            <script type="text/javascript">
-                                (function() {
-                                    var url = window.location.href;
-                                    if (url.indexOf('github.io') > -1) {
-                                        var clustrmaps = document.createElement('script');
-                                        clustrmaps.type = 'text/javascript';
-                                        clustrmaps.async = true;
-                                        clustrmaps.src = 'https://cdn.clustrmaps.com/clustrmaps-w.js';
-                                        document.getElementById('clustrmaps-widget').appendChild(clustrmaps);
-                                    }
-                                })();
-                            </script>
+                            <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QqWiqtgpvhS5l2vUR-NBmZiV5sSdT6Hqfp8yYaFtTlY&cl=ffffff&w=a"></script>
                         </div>
                     </div>
                 </div>
