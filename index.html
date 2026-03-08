@@ -179,7 +179,7 @@
                                         <a href="https://github.com/jiaojiaoguan" target="_blank" class="btn btn-outline-dark btn-sm mr-2">
                                             <i class="fab fa-github"></i> GitHub
                                         </a>
-                                        <a href="mailto:jiaojguan@cityu.edu.hk" class="btn btn-outline-secondary btn-sm">
+                                        <a href="mailto:jiaojguan2-c@mail.cityu.edu.hk" class="btn btn-outline-secondary btn-sm">
                                             <i class="fas fa-envelope"></i> Email
                                         </a>
                                     </div>
@@ -231,7 +231,7 @@
         <!-- Publications Section -->
         <section id="publications" class="mb-5">
             <div class="d-flex justify-content-between align-items-center mb-3">
-                <h2 class="section-title mb-0">Selected Publications</h2>
+                <h2 class="section-title mb-0">Publications</h2>
                 <a href="publications.html" class="btn btn-outline-primary btn-sm">View All <i class="fas fa-arrow-right"></i></a>
             </div>
             <div class="card border-0 shadow-sm bg-white">
@@ -253,7 +253,7 @@
                     <div class="row">
                         <!-- Contact Info -->
                         <div class="col-md-6">
-                            <p><i class="fas fa-envelope mr-2"></i><strong>Email:</strong> <a href="mailto:jiaojguan@cityu.edu.hk">jiaojguan@cityu.edu.hk</a></p>
+                            <p><i class="fas fa-envelope mr-2"></i><strong>Email:</strong> <a href="mailto:jiaojguan2-c@mail.cityu.edu.hk">jiaojguan2-c@mail.cityu.edu.hk</a></p>
                             <p><i class="fas fa-university mr-2"></i><strong>Address:</strong></p>
                             <p class="ml-4">
                                 Room 802, Block 1<br>
@@ -265,10 +265,23 @@
                         <div class="col-md-6">
                             <p><i class="fas fa-map-marker-alt mr-2"></i><strong>Visitor Map</strong></p>
                             <!-- ClustMaps Visitor Map - Real-time -->
-                            <div id="clustrmaps-widget" style="min-height: 200px;"></div>
-                            <script type="text/javascript">var _clustrmaps = {'url': 'https://jiaojiaoguan.github.io', 'id': '1bnk5', 'ldr': 'clustrmaps-loader'};</script>
-                            <script type="text/javascript" src="//cdn.clustrmaps.com/clustrmaps-w.js"></script>
-                            <noscript><a href="https://clustrmaps.com/site/1bnk5" target="_blank"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=QqWiqtgpvhS5l2vUR-NBmZiV5sSdT6Hqfp8yYaFtTlY"/></a></noscript>
+                            <div id="clustrmaps-widget" style="min-height: 200px;">
+                                <a href="https://clustrmaps.com/site/1bnk5" target="_blank">
+                                    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=QqWiqtgpvhS5l2vUR-NBmZiV5sSdT6Hqfp8yYaFtTlY" style="max-width: 100%; height: auto;" alt="Visitor Map"/>
+                                </a>
+                            </div>
+                            <script type="text/javascript">
+                                (function() {
+                                    var url = window.location.href;
+                                    if (url.indexOf('github.io') > -1) {
+                                        var clustrmaps = document.createElement('script');
+                                        clustrmaps.type = 'text/javascript';
+                                        clustrmaps.async = true;
+                                        clustrmaps.src = 'https://cdn.clustrmaps.com/clustrmaps-w.js';
+                                        document.getElementById('clustrmaps-widget').appendChild(clustrmaps);
+                                    }
+                                })();
+                            </script>
                         </div>
                     </div>
                 </div>
