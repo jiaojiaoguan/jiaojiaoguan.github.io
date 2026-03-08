@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>News - Jiaojiao Guan</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Lato', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .navbar {
+            font-family: 'Raleway', sans-serif;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Raleway', sans-serif;
+        }
+        .section-title {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        footer {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 0;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top mb-5 shadow-sm">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><strong>Jiaojiao Guan</strong></a>
+            <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i> Menu
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="publications.html">Publications</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="news.html">News</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+
+        <!-- Page Title -->
+        <section class="mb-5 pt-4">
+            <h1>News</h1>
+            <p class="text-muted">Latest updates</p>
+        </section>
+
+        <!-- All News -->
+        <section id="news" class="mb-5">
+            <div class="card border-0 shadow-sm bg-white">
+                <div class="card-body">
+                    <ul class="list-unstyled mb-0" id="news-list">
+                        <!-- News items will be inserted here by JavaScript -->
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="container">
+            <p class="mb-1">&copy; 2024 Jiaojiao Guan. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
+    <script>
+        // ============ 新闻列表 ============
+        const newsData = [
+            { year: '2025', text: 'Two papers accepted in <em>Briefings in Bioinformatics</em> and <em>Bioinformatics</em>.' },
+            { year: '2024', text: 'Our paper on <strong>ViraLM</strong> published in <em>Bioinformatics</em>.' },
+            { year: '2023', text: 'Our paper on <strong>PhaGenus</strong> published in <em>Briefings in Bioinformatics</em>.' },
+        ];
+
+        // 渲染新闻
+        function renderNews() {
+            const newsList = document.getElementById('news-list');
+            newsList.innerHTML = newsData.map(item => `
+                <li class="mb-3">
+                    <span class="badge badge-success mr-2">${item.year}</span>
+                    ${item.text}
+                </li>
+            `).join('');
+        }
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            renderNews();
+        });
+    </script>
+</body>
+</html>
